@@ -2,4 +2,4 @@
 # Ariza Nola Rufiana
 # H1D023005
 # Shift C
-# (assets/if unsoed.png)
+# ![if unsoed](assets/if unsoed.png)

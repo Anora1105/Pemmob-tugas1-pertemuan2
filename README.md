@@ -2,4 +2,4 @@
 # Ariza Nola Rufiana
 # H1D023005
 # Shift C
-# <img width="500" height="900" alt="if unsoed" src="https://github.com/user-attachments/assets/33dd205f-05d5-4610-bf8d-cc2c242c7877" />
+# <img width="500" height="1000" alt="if unsoed" src="https://github.com/user-attachments/assets/33dd205f-05d5-4610-bf8d-cc2c242c7877" />

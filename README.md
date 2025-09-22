@@ -2,4 +2,4 @@
 # Ariza Nola Rufiana
 # H1D023005
 # Shift C
-# ![if unsoed](assets/if unsoed.png)
+# <img width="1080" height="2400" alt="if unsoed" src="https://github.com/user-attachments/assets/33dd205f-05d5-4610-bf8d-cc2c242c7877" />

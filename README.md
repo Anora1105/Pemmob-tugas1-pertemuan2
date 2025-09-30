@@ -14,6 +14,9 @@ Berikut adalah screenshot hasil implementasi tugas 1 (halaman awal dan halaman k
 ---
 
 ## Tugas 2 - Pertemuan 3
-Berikut adalah video demo aplikasi yang memperlihatkan perpindahan halaman:  
+<img src="https://raw.githubusercontent.com/Anora1105/Pemmob-tugas1-pertemuan2/main/assets/Tugas_2_Pertemuan_3.gif" width="200">
 
-➡ [Klik di sini untuk melihat demo aplikasi](https://github.com/user-attachments/assets/34774091-9ffb-41e7-8e58-5a2ffc9a3fb0)  
+## Tugas 3 - Pertemuan 4
+<img src="https://raw.githubusercontent.com/Anora1105/Pemmob-tugas1-pertemuan2/main/assets/Tugas_3_Pertemuan_4.gif" width="200"> 
+
+
